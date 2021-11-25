@@ -1,0 +1,54 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 40px;
+    color: white;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+}
+
+h4 {
+    color: gray;
+    font-size: 21px;
+    font-weight: 100;
+    text-align: center;
+
+}
+
+video, img {
+    align-items: center;
+}
+
+p, footer {
+    color: grey;
+}
+
+p {
+    text-align: center;
+    font-size: 21px;
+}
+
+p.foot {
+    text-align: right;
+}
